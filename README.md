@@ -13,10 +13,17 @@ First install dependencies by executing the `npm install` command
 
 ### Histogram
 
+Original example can be found at https://bl.ocks.org/mbostock/b2fee5dae98555cf78c9e4c5074b87c3
+
 <img src='./histogram.png' class='img img-responsive'>
 
+---
 
-### Countours
+
+### Countours 
+
+Original example can be found at https://bl.ocks.org/mbostock/7f5f22524bd1d824dd53c535eda0187f
+
 
 <img src='./contours.png' class='img img-responsive'>
 
