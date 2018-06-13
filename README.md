@@ -10,3 +10,13 @@ First install dependencies by executing the `npm install` command
 * To run the app, execute `npm start` command
   - App is accessible at http://localhost:3000/
 
+
+### Histogram
+
+<img src='./histogram.png' class='img img-responsive'>
+
+
+### Countours
+
+<img src='./contours.png' class='img img-responsive'>
+
